@@ -5,7 +5,7 @@ public class Recusion {
 
     public static void main(String[] args) {
 
-        sayHallo(5);
+        sayHallo(10);
 
     }
 
