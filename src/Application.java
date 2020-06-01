@@ -26,8 +26,5 @@ public class Application implements Message, Calculator{
         System.out.println(x + y);
     }
 
-    @Override
-    public void multiValue(int x, int y) {
-System.out.println(x * Math.abs(y));
-    }
+
 }
