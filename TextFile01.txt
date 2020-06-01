@@ -1,2 +1,6 @@
 Hallo java world !!
 this is what I really love.. Java programming 
+
+First edition of Java - introduction
+I try to do my best to achieve a good step in java journey but how it takes am not sure about the next step.
+I try !!
