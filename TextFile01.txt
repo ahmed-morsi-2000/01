@@ -1,10 +1,9 @@
-Hallo java world !!
-this is what I really love.. Java programming 
+Steps HERE:
 
-First edition of Java - introduction
-I try to do my best to achieve a good step in java journey but how it takes am not sure about the next step.
-I try !!
-
-Something I feel life is not easy as we think.. sure it is NOT easy but we have to fight to reach our goal
-
-anyway thanks Allah al mighty I hava a goal to study informatic and complete my life here in DE
+1) File -> Open [to choose folder contain files you wanna push]
+2) all files will be in [unstaged files] section
+3) transfer file to STAGE section
+4) COMMIT and write commit message
+6) You will find file in REMOTES Option
+5) Remote option to define remote
+6) push
