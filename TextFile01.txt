@@ -4,6 +4,6 @@ Steps HERE:
 2) all files will be in [unstaged files] section
 3) transfer file to STAGE section
 4) COMMIT and write commit message
-6) You will find file in REMOTES Option
-5) Remote option to define remote
+6) You will find file in REMOTES Option (left hand menu)
+5) Remote option to define remote 
 6) push
