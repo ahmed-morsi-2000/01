@@ -1,4 +1,4 @@
-public class Application implements Message{
+public class Application implements Message, Calculator{
 
     @Override
     public void showMessage() {
@@ -19,5 +19,15 @@ public class Application implements Message{
     public void addNumber(int x, int y) {
         System.out.println("the final value is " + x+y);
 
+    }
+
+    @Override
+    public void addValue(int x, int y) {
+        System.out.println(x + y);
+    }
+
+    @Override
+    public void multiValue(int x, int y) {
+System.out.println(x * Math.abs(y));
     }
 }
